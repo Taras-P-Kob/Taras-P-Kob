@@ -1,4 +1,4 @@
-![proxy-image](https://github.com/Taras-P-Kob/Taras-P-Kob/assets/119957094/bc221e2d-d06e-4f46-af85-3ba27e49b673)<h1 align="center">Hi 👋, I'm Roman Zvir</h1>
+<h1 align="center">Hi 👋, I'm Roman Zvir</h1>
 <h3 align="center">A passionate software developer from Ukraine</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F0c774c_51d91940ad5f4c5ab49a4cd8c762f4b6~mv2.gif&sp=1704365020Tf733167dad68b9bc64d60c6f1f85d45a5cd1b20f2eb1dc03d9b9b73befaca754">
