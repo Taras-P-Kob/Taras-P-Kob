@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roman Zvir</h1>
+![proxy-image](https://github.com/Taras-P-Kob/Taras-P-Kob/assets/119957094/bc221e2d-d06e-4f46-af85-3ba27e49b673)<h1 align="center">Hi 👋, I'm Roman Zvir</h1>
 <h3 align="center">A passionate software developer from Ukraine</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&sp=1704315610Td0185a67e47fde2e4c6eed2b08c51a6dad117d3a60b92699545fd668be91abc7">
+<img align="right" alt="coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F0c774c_51d91940ad5f4c5ab49a4cd8c762f4b6~mv2.gif&sp=1704365020Tf733167dad68b9bc64d60c6f1f85d45a5cd1b20f2eb1dc03d9b9b73befaca754">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taras-p-kob&label=Profile%20views&color=0e75b6&style=flat" alt="taras-p-kob" /> </p>
 
