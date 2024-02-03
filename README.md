@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 👯 I’m looking to collaborate on **on creating new sites**
+- 👯 I’m looking to collaborate **on creating new sites**
 
 - 🤝 I’m looking for help with **JavaScript**
 
