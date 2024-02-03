@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **roman.zvir.pp.2023@lpnu.ua**
 
-- ⚡ Fun fact **I'm Russophobic, my favorite programming language is C+**
+- ⚡ Fun fact **I'm Russophobic, my favorite programming language is C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
