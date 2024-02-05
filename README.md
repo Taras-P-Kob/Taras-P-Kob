@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [This GitHub](This GitHub)
+- 👨‍💻 All of my projects are available at (This GitHub)
 
 - 💬 Ask me about **C++**
 
