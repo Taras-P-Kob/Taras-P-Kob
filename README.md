@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I'm Russophobic, my favorite programming language is C++**
 
+- 💲 My PayPal **zwirr151@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/704083683749003284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="704083683749003284" height="30" width="40" /></a>
